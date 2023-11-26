@@ -1,0 +1,4 @@
+Nombre del Paciente: Luka Sandoval
+Fecha de Citas: 27/12/2040 11:11:00
+Razón de Consulta: Operacion del Corazon
+Costo de Consulta: 1240
